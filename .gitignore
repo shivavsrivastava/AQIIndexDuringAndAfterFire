@@ -133,3 +133,5 @@ HowIDidIt.txt
 *.shp
 *.csv
 *.swp
+spec_file.txt
+try.ipynb
